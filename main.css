@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: #d7ceeb;
+    padding: 16px 0;
+    color: #fff;
+    display: flex;
+    border-bottom: 16px solid #cbc4e7;
+    justify-content: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+form{
+    background-color: #12eedf;
+    padding: 24px 0;
+    text-align: center;
+}
+
+ul li {
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 0;
+    cursor: pointer;
+}
